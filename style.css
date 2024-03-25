@@ -277,6 +277,20 @@
     color: #00385E;
 }
 
+ /* The Modal (background) */
+.w3-modal{
+    padding-top: 2%; /* Location of the box */
+    z-index: 6; /* Sit on top */
+    left:-10%;
+    top: 0;
+    width: 120%; /* Full width */
+    height: 120%; /* Full height */
+}
+
+ /* Modal Content (Image) */
+.w3-modal-content{
+    width: 60%;
+}
 
 @media (max-width: 1250px) {
     .contact-text{
