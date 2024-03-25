@@ -41,7 +41,7 @@ h2{font-family: "Urbanist", sans-serif;}
 }
 
 .home-page{
-    background-color:#01395E;
+/*     background-color:#01395E; */
     display: flex;
     flex-direction: column;
     justify-content: center;
